@@ -1,3 +1,5 @@
+//THIS IS THE CHANGES IN FILE
+
 #include <iostream>
 
 using namespace std;
@@ -18,7 +20,7 @@ int main()
 		i++;
 	}
 	
-	
+//THIS IS THE CHANGES IN FILE	
 	for(int i=0; i<6; i++)
 	{
 		cout<<sort[i]<<" ";
